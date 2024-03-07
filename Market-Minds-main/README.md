@@ -14,15 +14,15 @@ Utilized yfinance for historical data and integrated SVR model for predictive an
 
 ## Home Page
 
-![Logo](https://github.com/Anmol-26/Market-Minds/blob/main/Market-Minds/assets/images/stodk-2.jpg)
+![Logo](https://github.com/diksha1526/stock-forecasting/blob/main/Market-Minds-main/Market-Minds/assets/images/stodk-2.jpg)
 
 ## Details of Company Using Stock Code
 
-![Logo](https://github.com/Anmol-26/Market-Minds/blob/main/Market-Minds/assets/images/Stock.jpg)
+![Logo](https://github.com/diksha1526/stock-forecasting/blob/main/Market-Minds-main/Market-Minds/assets/images/Stock.jpg)
 
 ## Stock Price Prediction Graph
 
-![Logo](https://github.com/Anmol-26/Market-Minds/blob/main/Market-Minds/assets/images/stock-3.jpg)
+![Logo](https://github.com/diksha1526/stock-forecasting/blob/main/Market-Minds-main/Market-Minds/assets/images/stock-3.jpg)
 
 ## Features
 - Real-time stock data visualization
@@ -45,7 +45,7 @@ Utilized yfinance for historical data and integrated SVR model for predictive an
 Clone the Project :
 
 ```
-  git clone https://github.com/Anmol-26/Market-Minds.git
+  https://github.com/diksha1526/stock-forecasting.git
 ```
 
 Install Dependencies :
@@ -62,5 +62,5 @@ Run the Project :
 
 ## Contact
 
-For any inquiries, please contact anmol26143@gmail.com
+For any inquiries, please contact tiwarishailvi933@gmail.com
 
